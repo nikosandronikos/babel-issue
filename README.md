@@ -65,7 +65,7 @@ var MixinName = function MixinName(superclass) {
 
 ```
 
-I _think_ the `_inherits_ call should be:
+I _think_ the `_inherits()` call should be:
 ```
 _inherits(MixinName, _superclass);
 ```
