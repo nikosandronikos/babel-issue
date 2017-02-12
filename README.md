@@ -1,4 +1,5 @@
 # Babel bug?
+Filed as: https://github.com/babel/babel/issues/5285
 
 I use the following pattern for mixins:
 ```
